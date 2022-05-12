@@ -33,7 +33,7 @@ The [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl). command l
 
 Reference: [https://kubernetes.io/docs/tasks/tools/install-kubectl/](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
-### Linux
+### Linuxr
 
 ```
 wget https://storage.googleapis.com/kubernetes-release/release/v1.13.0/bin/linux/amd64/kubectl
